@@ -1,0 +1,10 @@
+D:\hyli\Project\MouseSpeedSwitcher\Mouse\bin\Debug\Mouse.dll
+D:\hyli\Project\MouseSpeedSwitcher\Mouse\bin\Debug\Mouse.pdb
+D:\hyli\Project\MouseSpeedSwitcher\Mouse\obj\Debug\ResolveAssemblyReference.cache
+D:\hyli\Project\MouseSpeedSwitcher\Mouse\obj\Debug\Mouse.dll
+D:\hyli\Project\MouseSpeedSwitcher\Mouse\obj\Debug\Mouse.pdb
+F:\Program Files\Microsoft Visual Studio 9.0\workspace\MouseSpeedSwitcher\Mouse\bin\Debug\Mouse.dll
+F:\Program Files\Microsoft Visual Studio 9.0\workspace\MouseSpeedSwitcher\Mouse\bin\Debug\Mouse.pdb
+F:\Program Files\Microsoft Visual Studio 9.0\workspace\MouseSpeedSwitcher\Mouse\obj\Debug\ResolveAssemblyReference.cache
+F:\Program Files\Microsoft Visual Studio 9.0\workspace\MouseSpeedSwitcher\Mouse\obj\Debug\Mouse.dll
+F:\Program Files\Microsoft Visual Studio 9.0\workspace\MouseSpeedSwitcher\Mouse\obj\Debug\Mouse.pdb

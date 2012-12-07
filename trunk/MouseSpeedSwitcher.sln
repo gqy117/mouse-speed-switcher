@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MouseSpeedSwitcher", "MouseSpeedSwitcher\MouseSpeedSwitcher.csproj", "{CD2352E7-6682-49DE-B9F5-7D11A4E95EC4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeyBoardLibrary", "HotKey\KeyBoardLibrary.csproj", "{265E16B7-09B0-40C4-A978-626C1854B789}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IniFileLibrary", "IniFile\IniFileLibrary.csproj", "{27189766-FC3A-4B4C-86DF-A28C6215C354}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MouseLibrary", "Mouse\MouseLibrary.csproj", "{FC80A54C-946F-40C1-ACF4-2010258C797E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoundLibrary", "SoundLibrary\SoundLibrary.csproj", "{ED41D705-268A-4A8B-8895-1433BE25CD9C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD2352E7-6682-49DE-B9F5-7D11A4E95EC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD2352E7-6682-49DE-B9F5-7D11A4E95EC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD2352E7-6682-49DE-B9F5-7D11A4E95EC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD2352E7-6682-49DE-B9F5-7D11A4E95EC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{265E16B7-09B0-40C4-A978-626C1854B789}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{265E16B7-09B0-40C4-A978-626C1854B789}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{265E16B7-09B0-40C4-A978-626C1854B789}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{265E16B7-09B0-40C4-A978-626C1854B789}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27189766-FC3A-4B4C-86DF-A28C6215C354}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27189766-FC3A-4B4C-86DF-A28C6215C354}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27189766-FC3A-4B4C-86DF-A28C6215C354}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27189766-FC3A-4B4C-86DF-A28C6215C354}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC80A54C-946F-40C1-ACF4-2010258C797E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC80A54C-946F-40C1-ACF4-2010258C797E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC80A54C-946F-40C1-ACF4-2010258C797E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC80A54C-946F-40C1-ACF4-2010258C797E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED41D705-268A-4A8B-8895-1433BE25CD9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED41D705-268A-4A8B-8895-1433BE25CD9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED41D705-268A-4A8B-8895-1433BE25CD9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED41D705-268A-4A8B-8895-1433BE25CD9C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

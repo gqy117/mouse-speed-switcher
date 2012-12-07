@@ -1,0 +1,5 @@
+D:\hyli\MouseSpeedSwitcher\HotKey\bin\Debug\HotKey.dll
+D:\hyli\MouseSpeedSwitcher\HotKey\bin\Debug\HotKey.pdb
+D:\hyli\MouseSpeedSwitcher\HotKey\obj\Debug\ResolveAssemblyReference.cache
+D:\hyli\MouseSpeedSwitcher\HotKey\obj\Debug\HotKey.dll
+D:\hyli\MouseSpeedSwitcher\HotKey\obj\Debug\HotKey.pdb
