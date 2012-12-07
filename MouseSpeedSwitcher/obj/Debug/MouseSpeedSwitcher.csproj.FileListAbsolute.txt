@@ -1,0 +1,51 @@
+D:\hyli\MouseSpeedSwitcher\MouseSpeedSwitcher\bin\Debug\MouseSpeedSwitcher.exe
+D:\hyli\MouseSpeedSwitcher\MouseSpeedSwitcher\bin\Debug\MouseSpeedSwitcher.pdb
+D:\hyli\MouseSpeedSwitcher\MouseSpeedSwitcher\bin\Debug\Mouse.dll
+D:\hyli\MouseSpeedSwitcher\MouseSpeedSwitcher\bin\Debug\Mouse.pdb
+D:\hyli\MouseSpeedSwitcher\MouseSpeedSwitcher\obj\Debug\ResolveAssemblyReference.cache
+D:\hyli\MouseSpeedSwitcher\MouseSpeedSwitcher\obj\Debug\MouseSpeedSwitcher.MouseSwitcher.resources
+D:\hyli\MouseSpeedSwitcher\MouseSpeedSwitcher\obj\Debug\MouseSpeedSwitcher.Properties.Resources.resources
+D:\hyli\MouseSpeedSwitcher\MouseSpeedSwitcher\obj\Debug\MouseSpeedSwitcher.csproj.GenerateResource.Cache
+D:\hyli\MouseSpeedSwitcher\MouseSpeedSwitcher\obj\Debug\MouseSpeedSwitcher.exe
+D:\hyli\MouseSpeedSwitcher\MouseSpeedSwitcher\obj\Debug\MouseSpeedSwitcher.pdb
+D:\hyli\MouseSpeedSwitcher\MouseSpeedSwitcher\bin\Debug\HotKey.dll
+D:\hyli\MouseSpeedSwitcher\MouseSpeedSwitcher\bin\Debug\HotKey.pdb
+D:\hyli\MouseSpeedSwitcher\MouseSpeedSwitcher\bin\Debug\IniFile.dll
+D:\hyli\MouseSpeedSwitcher\MouseSpeedSwitcher\bin\Debug\IniFile.pdb
+D:\hyli\MouseSpeedSwitcher\MouseSpeedSwitcher\obj\Debug\MouseSpeedSwitcher.Tray.resources
+D:\hyli\Project\MouseSpeedSwitcher\MouseSpeedSwitcher\obj\Debug\MouseSpeedSwitcher.exe
+D:\hyli\Project\MouseSpeedSwitcher\MouseSpeedSwitcher\obj\Debug\MouseSpeedSwitcher.pdb
+D:\hyli\Project\MouseSpeedSwitcher\MouseSpeedSwitcher\obj\Debug\ResolveAssemblyReference.cache
+D:\hyli\Project\MouseSpeedSwitcher\MouseSpeedSwitcher\obj\Debug\MouseSpeedSwitcher.Monitor_Form.resources
+D:\hyli\Project\MouseSpeedSwitcher\MouseSpeedSwitcher\obj\Debug\MouseSpeedSwitcher.MouseSwitcher.resources
+D:\hyli\Project\MouseSpeedSwitcher\MouseSpeedSwitcher\obj\Debug\MouseSpeedSwitcher.Properties.Resources.resources
+D:\hyli\Project\MouseSpeedSwitcher\MouseSpeedSwitcher\obj\Debug\MouseSpeedSwitcher.Tray.resources
+D:\hyli\Project\MouseSpeedSwitcher\MouseSpeedSwitcher\obj\Debug\MouseSpeedSwitcher.csproj.GenerateResource.Cache
+D:\hyli\Project\MouseSpeedSwitcher\MouseSpeedSwitcher\bin\Debug\MouseSpeedSwitcher.exe
+D:\hyli\Project\MouseSpeedSwitcher\MouseSpeedSwitcher\bin\Debug\MouseSpeedSwitcher.pdb
+D:\hyli\Project\MouseSpeedSwitcher\MouseSpeedSwitcher\bin\Debug\HotKey.dll
+D:\hyli\Project\MouseSpeedSwitcher\MouseSpeedSwitcher\bin\Debug\IniFile.dll
+D:\hyli\Project\MouseSpeedSwitcher\MouseSpeedSwitcher\bin\Debug\Mouse.dll
+D:\hyli\Project\MouseSpeedSwitcher\MouseSpeedSwitcher\bin\Debug\HotKey.pdb
+D:\hyli\Project\MouseSpeedSwitcher\MouseSpeedSwitcher\bin\Debug\Mouse.pdb
+D:\hyli\Project\MouseSpeedSwitcher\MouseSpeedSwitcher\bin\Debug\IniFile.pdb
+D:\hyli\Project\MouseSpeedSwitcher\MouseSpeedSwitcher\bin\Debug\SoundLibrary.dll
+D:\hyli\Project\MouseSpeedSwitcher\MouseSpeedSwitcher\bin\Debug\SoundLibrary.pdb
+F:\Program Files\Microsoft Visual Studio 9.0\workspace\MouseSpeedSwitcher\MouseSpeedSwitcher\obj\Debug\MouseSpeedSwitcher.exe
+F:\Program Files\Microsoft Visual Studio 9.0\workspace\MouseSpeedSwitcher\MouseSpeedSwitcher\obj\Debug\MouseSpeedSwitcher.pdb
+F:\Program Files\Microsoft Visual Studio 9.0\workspace\MouseSpeedSwitcher\MouseSpeedSwitcher\bin\Debug\MouseSpeedSwitcher.exe
+F:\Program Files\Microsoft Visual Studio 9.0\workspace\MouseSpeedSwitcher\MouseSpeedSwitcher\bin\Debug\MouseSpeedSwitcher.pdb
+F:\Program Files\Microsoft Visual Studio 9.0\workspace\MouseSpeedSwitcher\MouseSpeedSwitcher\bin\Debug\HotKey.dll
+F:\Program Files\Microsoft Visual Studio 9.0\workspace\MouseSpeedSwitcher\MouseSpeedSwitcher\bin\Debug\IniFile.dll
+F:\Program Files\Microsoft Visual Studio 9.0\workspace\MouseSpeedSwitcher\MouseSpeedSwitcher\bin\Debug\Mouse.dll
+F:\Program Files\Microsoft Visual Studio 9.0\workspace\MouseSpeedSwitcher\MouseSpeedSwitcher\bin\Debug\SoundLibrary.dll
+F:\Program Files\Microsoft Visual Studio 9.0\workspace\MouseSpeedSwitcher\MouseSpeedSwitcher\bin\Debug\HotKey.pdb
+F:\Program Files\Microsoft Visual Studio 9.0\workspace\MouseSpeedSwitcher\MouseSpeedSwitcher\bin\Debug\Mouse.pdb
+F:\Program Files\Microsoft Visual Studio 9.0\workspace\MouseSpeedSwitcher\MouseSpeedSwitcher\bin\Debug\IniFile.pdb
+F:\Program Files\Microsoft Visual Studio 9.0\workspace\MouseSpeedSwitcher\MouseSpeedSwitcher\bin\Debug\SoundLibrary.pdb
+F:\Program Files\Microsoft Visual Studio 9.0\workspace\MouseSpeedSwitcher\MouseSpeedSwitcher\obj\Debug\ResolveAssemblyReference.cache
+F:\Program Files\Microsoft Visual Studio 9.0\workspace\MouseSpeedSwitcher\MouseSpeedSwitcher\obj\Debug\MouseSpeedSwitcher.Monitor_Form.resources
+F:\Program Files\Microsoft Visual Studio 9.0\workspace\MouseSpeedSwitcher\MouseSpeedSwitcher\obj\Debug\MouseSpeedSwitcher.MouseSwitcher.resources
+F:\Program Files\Microsoft Visual Studio 9.0\workspace\MouseSpeedSwitcher\MouseSpeedSwitcher\obj\Debug\MouseSpeedSwitcher.Properties.Resources.resources
+F:\Program Files\Microsoft Visual Studio 9.0\workspace\MouseSpeedSwitcher\MouseSpeedSwitcher\obj\Debug\MouseSpeedSwitcher.Tray.resources
+F:\Program Files\Microsoft Visual Studio 9.0\workspace\MouseSpeedSwitcher\MouseSpeedSwitcher\obj\Debug\MouseSpeedSwitcher.csproj.GenerateResource.Cache
