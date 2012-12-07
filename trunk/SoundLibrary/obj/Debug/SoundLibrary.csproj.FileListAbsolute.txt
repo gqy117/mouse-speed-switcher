@@ -1,5 +1,0 @@
-D:\hyli\Project\MouseSpeedSwitcher\SoundLibrary\bin\Debug\SoundLibrary.dll
-D:\hyli\Project\MouseSpeedSwitcher\SoundLibrary\bin\Debug\SoundLibrary.pdb
-D:\hyli\Project\MouseSpeedSwitcher\SoundLibrary\obj\Debug\ResolveAssemblyReference.cache
-D:\hyli\Project\MouseSpeedSwitcher\SoundLibrary\obj\Debug\SoundLibrary.dll
-D:\hyli\Project\MouseSpeedSwitcher\SoundLibrary\obj\Debug\SoundLibrary.pdb
