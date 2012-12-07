@@ -1,5 +1,0 @@
-D:\hyli\MouseSpeedSwitcher\IniFile\bin\Debug\IniFile.dll
-D:\hyli\MouseSpeedSwitcher\IniFile\bin\Debug\IniFile.pdb
-D:\hyli\MouseSpeedSwitcher\IniFile\obj\Debug\ResolveAssemblyReference.cache
-D:\hyli\MouseSpeedSwitcher\IniFile\obj\Debug\IniFile.dll
-D:\hyli\MouseSpeedSwitcher\IniFile\obj\Debug\IniFile.pdb
